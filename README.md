@@ -11,6 +11,8 @@ custom.eureka-server: eureka server url
 | beiminzhiyu-mall-config-server | 8081 | config-server    |        |
 | beiminzhiyu-mall-eureka-server | 8082 | eureka-server    |        |
 | beiminzhiyu-mall-member        | 8083 | member-service   |        |
+| beiminzhiyu-mall-message       | 8084 | message-service  |        |
+|                                |      |                  |        |
 
 eureka client example:
 
