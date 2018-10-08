@@ -7,3 +7,6 @@ eureka:
   client:
     service-url:
       defaultZone: ${custom.eureka-server}
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
