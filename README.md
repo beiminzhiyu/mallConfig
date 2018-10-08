@@ -13,6 +13,7 @@ custom.eureka-server: eureka server url
 | beiminzhiyu-mall-member        | 8083 | member-service   |        |
 | beiminzhiyu-mall-message       | 8084 | message-service  |        |
 | beiminzhiyu-mall-pc-web        | 8085 | pc-web-service   |        |
+| beiminzhiyu-mall-weixin        | 8086 | weixin-service   |        |
 
 eureka client example:
 

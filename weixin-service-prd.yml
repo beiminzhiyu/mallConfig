@@ -1,0 +1,9 @@
+server:
+  port: ${custom.port}
+spring:
+  application:
+    name: weixin-service
+eureka:
+  client:
+    service-url:
+      defaultZone: ${custom.eureka-server}
