@@ -1,0 +1,9 @@
+server:
+  port: ${custom.port}
+spring:
+  application:
+    name: pc-web-service
+eureka:
+  client:
+    service-url:
+      defaultZone: ${custom.eureka-server}
