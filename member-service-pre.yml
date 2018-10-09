@@ -4,6 +4,7 @@ eureka:
   client:
     service-url:
       defaultZone: http://192.168.31.204:8082/eureka
+spring:
   application:
     name: member-service
   redis:
