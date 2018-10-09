@@ -41,4 +41,4 @@ spring:
       enabled: false
 messages:
   queue: messages_queue
-  status: noDone
+  status: done
